@@ -1,0 +1,18 @@
+====== LINKS ÚTEIS - AULA 02 - BOOTCAMP PYTHON ======
+
+
+→ GitHub - Aula 02:
+https://github.com/lvgalvao/aula02laennder
+
+
+→ YData Profiling:
+https://docs.profiling.ydata.ai/latest/
+
+
+→ Render: 
+https://render.com
+
+
+→ Qualidade de dados em ETL com Pandera e Python:
+https://www.youtube.com/watch?v=IQtuWsNmB4o
+

@@ -28,7 +28,7 @@ print(site.getsitepackages())
 
 
 # Leitura do arquivo CSV
-df = pd.read_csv("")
+df = pd.read_csv("vendas.csv")
 # df = pd.read_csv("vendas.csv")
 
 # Salvando o DataFrame como arquivo Parquet
